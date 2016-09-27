@@ -9,7 +9,7 @@ public class Calculadora {
 	}
 	
 	public int subtrair(int a, int b){
-		
+		System.out.println("teste");
 		return a-b;
 		
 	}
