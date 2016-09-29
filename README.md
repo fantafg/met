@@ -1,2 +1,0 @@
-# academico
-Projeto academico
