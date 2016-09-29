@@ -5,7 +5,7 @@
   <groupId>com.ifce.maven</groupId>
   <artifactId>academico-maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>academico-maven</name>
   <url>http://maven.apache.org</url>
