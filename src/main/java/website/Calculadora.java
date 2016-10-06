@@ -10,6 +10,7 @@ public class Calculadora {
 	
 	public int subtrair(int a, int b){
 		System.out.println("teste2");
+		System.out.println("teste....");
 		return a-b;
 		
 	}
